@@ -1,10 +1,10 @@
 # Hamza Rahman
 
-Senior full-stack engineer with 8+ years building production systems in Node.js and TypeScript.
+Lead software engineer specializing in everything JavaScript, 8+ years in.
 
-Most of my work is external data: collection pipelines, third-party integrations, and the monitoring that catches a source change before it corrupts everything downstream. More recently I have been building production AI systems where model output is validated against real application state rather than trusted.
+I work across web development and web automation. On the development side that means production APIs and full-stack products in Node.js, TypeScript, Fastify and React/Next.js. On the automation side, scraping, third-party integrations and the data pipelines that keep other people's products supplied. More recently I have been working with AI tooling, including RAG, function calling and structured outputs.
 
-Based in Islamabad, Pakistan. I work with teams across UK, US and Gulf timezones, and write at [javascripthacker.com](https://www.javascripthacker.com/).
+Based in Islamabad, Pakistan. I work with teams across UK, US and Gulf timezones, and write practical tutorials and code snippets at [javascripthacker.com](https://www.javascripthacker.com/).
 
 ## Availability
 
@@ -24,8 +24,6 @@ Contact: hamzarahman7@gmail.com
 | [chutes-js](https://github.com/yum72/chutes-js) | Node.js client for the Chutes.ai platform covering language, image, video and audio models. Published to npm. |
 | [Scraping-API](https://github.com/yum72/Scraping-API) | Node.js API for scraping jobs, routing each request through plain HTTP or Puppeteer depending on what the target requires. |
 | [React-Redux-Auth-Boilerplate](https://github.com/yum72/React-Redux-Auth-Boilerplate) | React and Redux authentication scaffold structured on ducks-modular-redux. |
-
-Most of my work over the past several years is client work held in private repositories, so what appears here is the portion I can publish. I can arrange a walkthrough of relevant production code on request.
 
 ## Technologies
 
