@@ -4,15 +4,7 @@ Lead software engineer specializing in everything JavaScript, 8+ years in.
 
 I work across web development and web automation. On the development side that means production APIs and full-stack products in Node.js, TypeScript, Fastify and React/Next.js. On the automation side, scraping, third-party integrations and the data pipelines that keep other people's products supplied. More recently I have been working with AI tooling, including RAG, function calling and structured outputs.
 
-Based in Islamabad, Pakistan. I work with teams across UK, US and Gulf timezones, and write practical tutorials and code snippets at [javascripthacker.com](https://www.javascripthacker.com/).
-
-## Availability
-
-Open to contract and part-time engagements of roughly 20–30 hours per week. Strongest fit:
-
-- Building and maintaining external data pipelines, including collection, normalization, deduplication, retries, monitoring and alerting.
-- AI integration work: RAG, tool calling and agentic workflows with schema-validated output and deterministic fallbacks.
-- Taking over pipelines and integrations that have become unreliable and making them dependable again.
+I write practical tutorials and code snippets at [javascripthacker.com](https://www.javascripthacker.com/).
 
 Contact: hamzarahman7@gmail.com
 
@@ -33,9 +25,3 @@ Contact: hamzarahman7@gmail.com
 **Regular:** Puppeteer · Playwright · LLM APIs and tool calling · RAG · SQLite · Three.js
 
 **Working knowledge:** Python · MongoDB · AWS · GCP · Docker · CI/CD
-
-## In progress
-
-A head-coupled 3D perspective engine. Webcam face landmarks drive the render camera so the display behaves like a fixed window, letting the viewer lean and see past foreground geometry. The bulk of the work is in processing noisy landmark data: depth derived from inter-ocular distance, calibration, exponential smoothing, rate limiting and outlier rejection, with pointer and recorded-path fallbacks for when a camera is unavailable or tracking drops.
-
-Repository and writeup to follow.
